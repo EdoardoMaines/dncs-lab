@@ -131,7 +131,7 @@ I created four different subnets:
 - The last on is between *host-c* and *router-2*, in this case I've chosen to use the subnet 192.168.4.0/25 to cover the 112 addresses (2<sup>32-22</sup>-2>112).
 
 ## IP-Map and VLANs
-<img src="dncs project_1.png" width="650">
+<img src="network.JPG" width="650">
 
 |  Device  |  Interface |      IP       | Subnet |
 | :------: | :--------: | :-----------: | :----: |
